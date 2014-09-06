@@ -1,21 +1,22 @@
-p{font-size: 16px;
-}
-h2 {
-font: bold 21px sans-serif;
-}
-h3{font-size:16px;}
+p {font-size: 16px;}
+
+h2 {font: bold 21px sans-serif;}
+
+h3 {font-size:16px;}
+
 h1 {
-	margin-bottom: 5px;
-    font: bold 48px sans-serif;
-    color: red;
+  margin-bottom: 5px;
+  font: bold 48px sans-serif;
+  color: red;
 }
+
 .ital {
-	margin-top: 0px;
-	margin-bottom: 10px;
-	font: italic 24px serif;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font: italic 24px serif;
 }
 
 .bkg_yellow {
-background-color: #FFFF00;
-padding: 25px;
+  background-color: #FFFF00;
+  padding: 25px;
 }
