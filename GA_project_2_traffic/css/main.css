@@ -80,8 +80,9 @@
   transition: width 2s ease 1s;
   cursor: pointer;
   diplay: block;
+}
   
-.button: hover{
+.button:hover{
   background-color: gray;
   opacity: .5;
   width: 150px;
