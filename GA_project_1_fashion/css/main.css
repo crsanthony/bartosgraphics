@@ -40,6 +40,8 @@ body{
         margin-bottom: 25px; 
         margin-top: 5px;
 }
+
+//awesome use of element styling above.
     
     p{
         font-size: 1em; 
@@ -77,6 +79,8 @@ body{
     .maroon{
         color: #DA4545;
     }
+    
+    //see my comments in index.html re: class names for colors.  This works great, but the class names themselves are slightly awkward. 
     
     .grey{
         color: #d6d5d7;
